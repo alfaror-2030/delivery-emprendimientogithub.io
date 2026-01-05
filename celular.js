@@ -1,5 +1,5 @@
 // Configuración general 
-const CELULAR = "593989358710";       //Número de WhatsApp en formato internacional
+const CELULAR = "593993709892";       //Número de WhatsApp en formato internacional
 const PRECIO_BAGUETTE = 2.00;
 const PRECIO_INTEGRAL = 2.00;
 const COSTO_RECOGIDA = 0.75;         // Costo de recoger en Minimarket
@@ -86,4 +86,5 @@ document.getElementById('send-btn').addEventListener('click', function(){
 });
 
 // Inicialiar la página
+
 updateUI();
